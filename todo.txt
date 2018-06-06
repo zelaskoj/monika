@@ -1,0 +1,3 @@
+add prank code fucking with jon
+have bot join channel with highest participants or a default if none anywhere
+fix bot responding to itself in dethlord
