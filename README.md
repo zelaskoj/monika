@@ -1,2 +1,2 @@
-# botboy
-A discord.js bot for the DDD server
+# Monika
+A discord.js bot for the Just Monika server
