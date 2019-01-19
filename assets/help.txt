@@ -1,0 +1,11 @@
+```
+Bot commands:
+ 
+!enter/!fuckme: Bot enters the voice channel
+!exit/!fuckoff: Bot exits the voice channel
+!pf <filename>: plays specified audio file, also accepts random (see below for options)
+!thonk: hmmmmmm
+!time [username]: displays how long every member has been in the voice channel. Specify a username to see stats for just that user.
+
+More to come!
+```

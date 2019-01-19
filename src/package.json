@@ -1,0 +1,16 @@
+{
+  "name": "monika_dev",
+  "version": "1.0.0",
+  "description": "Development environment",
+  "main": "bot.js",
+  "dependencies": {
+    "discord.js": "github:discordjs/discord.js",
+    "node-opus": "^0.3.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jacob Zelasko",
+  "license": "ISC"
+}
